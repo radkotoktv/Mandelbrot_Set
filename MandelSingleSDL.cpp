@@ -1,8 +1,9 @@
 #include <iostream>
-#include "SDL2\i686-w64-mingw32\include\SDL2\SDL.h"
+#include <F:\SPO\SDL2\i686-w64-mingw32\include\SDL2\SDL.h>
 #include <complex>
+#include <chrono>
 
-#define MAX_ITERATIONS 1000
+#define MAX_ITERATIONS 255
 
 const int WIDTH = 800;
 const int HEIGHT = 600;
@@ -60,7 +61,13 @@ int main(int argc, char *argv[]) {
         return 1;
     }
 
+    auto start = std::chrono::high_resolution_clock::now();
+    
     renderMandelbrot(renderer);
+
+    auto end = std::chrono::high_resolution_clock::now();
+    std::chrono::duration<double> elapsed = end - start;
+    std::cout << "Time taken to generate Mandelbrot set: " << elapsed.count() << " seconds" << std::endl;
 
     SDL_RenderPresent(renderer);
 
