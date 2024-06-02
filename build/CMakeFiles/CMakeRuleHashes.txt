@@ -1,0 +1,15 @@
+# Hashes of file build rules.
+cdcc420c2412f78149760eb75d563fef CMakeFiles/copy-sdl-test-resources
+fff37b858ca2b8c3b21c3840a60c3603 axis.bmp
+939bbcd1fbef8b3a60e857c00e6b41d3 button.bmp
+98b4efa769084f18d7dde66584704da1 controllermap.bmp
+8ee4aca8dce126480cc1ac7aaa6661d3 controllermap_back.bmp
+0a253d314163af449fb55b2de43b0ab8 icon.bmp
+557c87f4fea54e30fc1be9bcc8208f40 moose.dat
+6118fe467a488b9a11c333b4a882e09b sample.bmp
+fe0ba628d4a63bfed1e70619c243fccf sample.wav
+585c90ea6c9cd7647080f4bc0172eed1 testgles2_sdf_img_normal.bmp
+7381199285aa6ecd9bd15fe723bdc4fa testgles2_sdf_img_sdf.bmp
+64f15dd408d96356d7e62d0567099a4b testyuv.bmp
+757e144b65ab51a84481967ea184f327 unifont-13.0.06.hex
+91eb9f600cbb3537871b27f7af855b64 utf8.txt

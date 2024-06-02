@@ -1,0 +1,674 @@
+[
+{
+  "directory": "F:/SPO/build",
+  "command": "C:/MinGW/bin/gcc.exe -DHAVE_OPENGL  -g -o CMakeFiles/checkkeys.dir/checkkeys.c.obj -c F:/SPO/SDL2/test/checkkeys.c",
+  "file": "F:/SPO/SDL2/test/checkkeys.c",
+  "output": "CMakeFiles/checkkeys.dir/checkkeys.c.obj"
+},
+{
+  "directory": "F:/SPO/build",
+  "command": "C:/MinGW/bin/gcc.exe -DHAVE_OPENGL  -g -o CMakeFiles/checkkeysthreads.dir/checkkeysthreads.c.obj -c F:/SPO/SDL2/test/checkkeysthreads.c",
+  "file": "F:/SPO/SDL2/test/checkkeysthreads.c",
+  "output": "CMakeFiles/checkkeysthreads.dir/checkkeysthreads.c.obj"
+},
+{
+  "directory": "F:/SPO/build",
+  "command": "C:/MinGW/bin/gcc.exe -DHAVE_OPENGL  -g -o CMakeFiles/loopwave.dir/loopwave.c.obj -c F:/SPO/SDL2/test/loopwave.c",
+  "file": "F:/SPO/SDL2/test/loopwave.c",
+  "output": "CMakeFiles/loopwave.dir/loopwave.c.obj"
+},
+{
+  "directory": "F:/SPO/build",
+  "command": "C:/MinGW/bin/gcc.exe -DHAVE_OPENGL  -g -o CMakeFiles/loopwave.dir/testutils.c.obj -c F:/SPO/SDL2/test/testutils.c",
+  "file": "F:/SPO/SDL2/test/testutils.c",
+  "output": "CMakeFiles/loopwave.dir/testutils.c.obj"
+},
+{
+  "directory": "F:/SPO/build",
+  "command": "C:/MinGW/bin/gcc.exe -DHAVE_OPENGL  -g -o CMakeFiles/loopwavequeue.dir/loopwavequeue.c.obj -c F:/SPO/SDL2/test/loopwavequeue.c",
+  "file": "F:/SPO/SDL2/test/loopwavequeue.c",
+  "output": "CMakeFiles/loopwavequeue.dir/loopwavequeue.c.obj"
+},
+{
+  "directory": "F:/SPO/build",
+  "command": "C:/MinGW/bin/gcc.exe -DHAVE_OPENGL  -g -o CMakeFiles/loopwavequeue.dir/testutils.c.obj -c F:/SPO/SDL2/test/testutils.c",
+  "file": "F:/SPO/SDL2/test/testutils.c",
+  "output": "CMakeFiles/loopwavequeue.dir/testutils.c.obj"
+},
+{
+  "directory": "F:/SPO/build",
+  "command": "C:/MinGW/bin/gcc.exe -DHAVE_OPENGL  -g -o CMakeFiles/testsurround.dir/testsurround.c.obj -c F:/SPO/SDL2/test/testsurround.c",
+  "file": "F:/SPO/SDL2/test/testsurround.c",
+  "output": "CMakeFiles/testsurround.dir/testsurround.c.obj"
+},
+{
+  "directory": "F:/SPO/build",
+  "command": "C:/MinGW/bin/gcc.exe -DHAVE_OPENGL  -g -o CMakeFiles/testresample.dir/testresample.c.obj -c F:/SPO/SDL2/test/testresample.c",
+  "file": "F:/SPO/SDL2/test/testresample.c",
+  "output": "CMakeFiles/testresample.dir/testresample.c.obj"
+},
+{
+  "directory": "F:/SPO/build",
+  "command": "C:/MinGW/bin/gcc.exe -DHAVE_OPENGL  -g -o CMakeFiles/testaudioinfo.dir/testaudioinfo.c.obj -c F:/SPO/SDL2/test/testaudioinfo.c",
+  "file": "F:/SPO/SDL2/test/testaudioinfo.c",
+  "output": "CMakeFiles/testaudioinfo.dir/testaudioinfo.c.obj"
+},
+{
+  "directory": "F:/SPO/build",
+  "command": "C:/MinGW/bin/gcc.exe -DHAVE_OPENGL -DHAVE_WFORMAT -DHAVE_WFORMAT_EXTRA_ARGS  -g -o CMakeFiles/testautomation.dir/testautomation.c.obj -c F:/SPO/SDL2/test/testautomation.c",
+  "file": "F:/SPO/SDL2/test/testautomation.c",
+  "output": "CMakeFiles/testautomation.dir/testautomation.c.obj"
+},
+{
+  "directory": "F:/SPO/build",
+  "command": "C:/MinGW/bin/gcc.exe -DHAVE_OPENGL -DHAVE_WFORMAT -DHAVE_WFORMAT_EXTRA_ARGS  -g -o CMakeFiles/testautomation.dir/testautomation_audio.c.obj -c F:/SPO/SDL2/test/testautomation_audio.c",
+  "file": "F:/SPO/SDL2/test/testautomation_audio.c",
+  "output": "CMakeFiles/testautomation.dir/testautomation_audio.c.obj"
+},
+{
+  "directory": "F:/SPO/build",
+  "command": "C:/MinGW/bin/gcc.exe -DHAVE_OPENGL -DHAVE_WFORMAT -DHAVE_WFORMAT_EXTRA_ARGS  -g -o CMakeFiles/testautomation.dir/testautomation_clipboard.c.obj -c F:/SPO/SDL2/test/testautomation_clipboard.c",
+  "file": "F:/SPO/SDL2/test/testautomation_clipboard.c",
+  "output": "CMakeFiles/testautomation.dir/testautomation_clipboard.c.obj"
+},
+{
+  "directory": "F:/SPO/build",
+  "command": "C:/MinGW/bin/gcc.exe -DHAVE_OPENGL -DHAVE_WFORMAT -DHAVE_WFORMAT_EXTRA_ARGS  -g -o CMakeFiles/testautomation.dir/testautomation_events.c.obj -c F:/SPO/SDL2/test/testautomation_events.c",
+  "file": "F:/SPO/SDL2/test/testautomation_events.c",
+  "output": "CMakeFiles/testautomation.dir/testautomation_events.c.obj"
+},
+{
+  "directory": "F:/SPO/build",
+  "command": "C:/MinGW/bin/gcc.exe -DHAVE_OPENGL -DHAVE_WFORMAT -DHAVE_WFORMAT_EXTRA_ARGS  -g -o CMakeFiles/testautomation.dir/testautomation_guid.c.obj -c F:/SPO/SDL2/test/testautomation_guid.c",
+  "file": "F:/SPO/SDL2/test/testautomation_guid.c",
+  "output": "CMakeFiles/testautomation.dir/testautomation_guid.c.obj"
+},
+{
+  "directory": "F:/SPO/build",
+  "command": "C:/MinGW/bin/gcc.exe -DHAVE_OPENGL -DHAVE_WFORMAT -DHAVE_WFORMAT_EXTRA_ARGS  -g -o CMakeFiles/testautomation.dir/testautomation_hints.c.obj -c F:/SPO/SDL2/test/testautomation_hints.c",
+  "file": "F:/SPO/SDL2/test/testautomation_hints.c",
+  "output": "CMakeFiles/testautomation.dir/testautomation_hints.c.obj"
+},
+{
+  "directory": "F:/SPO/build",
+  "command": "C:/MinGW/bin/gcc.exe -DHAVE_OPENGL -DHAVE_WFORMAT -DHAVE_WFORMAT_EXTRA_ARGS  -g -o CMakeFiles/testautomation.dir/testautomation_joystick.c.obj -c F:/SPO/SDL2/test/testautomation_joystick.c",
+  "file": "F:/SPO/SDL2/test/testautomation_joystick.c",
+  "output": "CMakeFiles/testautomation.dir/testautomation_joystick.c.obj"
+},
+{
+  "directory": "F:/SPO/build",
+  "command": "C:/MinGW/bin/gcc.exe -DHAVE_OPENGL -DHAVE_WFORMAT -DHAVE_WFORMAT_EXTRA_ARGS  -g -o CMakeFiles/testautomation.dir/testautomation_keyboard.c.obj -c F:/SPO/SDL2/test/testautomation_keyboard.c",
+  "file": "F:/SPO/SDL2/test/testautomation_keyboard.c",
+  "output": "CMakeFiles/testautomation.dir/testautomation_keyboard.c.obj"
+},
+{
+  "directory": "F:/SPO/build",
+  "command": "C:/MinGW/bin/gcc.exe -DHAVE_OPENGL -DHAVE_WFORMAT -DHAVE_WFORMAT_EXTRA_ARGS  -g -o CMakeFiles/testautomation.dir/testautomation_log.c.obj -c F:/SPO/SDL2/test/testautomation_log.c",
+  "file": "F:/SPO/SDL2/test/testautomation_log.c",
+  "output": "CMakeFiles/testautomation.dir/testautomation_log.c.obj"
+},
+{
+  "directory": "F:/SPO/build",
+  "command": "C:/MinGW/bin/gcc.exe -DHAVE_OPENGL -DHAVE_WFORMAT -DHAVE_WFORMAT_EXTRA_ARGS  -g -o CMakeFiles/testautomation.dir/testautomation_main.c.obj -c F:/SPO/SDL2/test/testautomation_main.c",
+  "file": "F:/SPO/SDL2/test/testautomation_main.c",
+  "output": "CMakeFiles/testautomation.dir/testautomation_main.c.obj"
+},
+{
+  "directory": "F:/SPO/build",
+  "command": "C:/MinGW/bin/gcc.exe -DHAVE_OPENGL -DHAVE_WFORMAT -DHAVE_WFORMAT_EXTRA_ARGS  -g -o CMakeFiles/testautomation.dir/testautomation_math.c.obj -c F:/SPO/SDL2/test/testautomation_math.c",
+  "file": "F:/SPO/SDL2/test/testautomation_math.c",
+  "output": "CMakeFiles/testautomation.dir/testautomation_math.c.obj"
+},
+{
+  "directory": "F:/SPO/build",
+  "command": "C:/MinGW/bin/gcc.exe -DHAVE_OPENGL -DHAVE_WFORMAT -DHAVE_WFORMAT_EXTRA_ARGS  -g -o CMakeFiles/testautomation.dir/testautomation_mouse.c.obj -c F:/SPO/SDL2/test/testautomation_mouse.c",
+  "file": "F:/SPO/SDL2/test/testautomation_mouse.c",
+  "output": "CMakeFiles/testautomation.dir/testautomation_mouse.c.obj"
+},
+{
+  "directory": "F:/SPO/build",
+  "command": "C:/MinGW/bin/gcc.exe -DHAVE_OPENGL -DHAVE_WFORMAT -DHAVE_WFORMAT_EXTRA_ARGS  -g -o CMakeFiles/testautomation.dir/testautomation_pixels.c.obj -c F:/SPO/SDL2/test/testautomation_pixels.c",
+  "file": "F:/SPO/SDL2/test/testautomation_pixels.c",
+  "output": "CMakeFiles/testautomation.dir/testautomation_pixels.c.obj"
+},
+{
+  "directory": "F:/SPO/build",
+  "command": "C:/MinGW/bin/gcc.exe -DHAVE_OPENGL -DHAVE_WFORMAT -DHAVE_WFORMAT_EXTRA_ARGS  -g -o CMakeFiles/testautomation.dir/testautomation_platform.c.obj -c F:/SPO/SDL2/test/testautomation_platform.c",
+  "file": "F:/SPO/SDL2/test/testautomation_platform.c",
+  "output": "CMakeFiles/testautomation.dir/testautomation_platform.c.obj"
+},
+{
+  "directory": "F:/SPO/build",
+  "command": "C:/MinGW/bin/gcc.exe -DHAVE_OPENGL -DHAVE_WFORMAT -DHAVE_WFORMAT_EXTRA_ARGS  -g -o CMakeFiles/testautomation.dir/testautomation_rect.c.obj -c F:/SPO/SDL2/test/testautomation_rect.c",
+  "file": "F:/SPO/SDL2/test/testautomation_rect.c",
+  "output": "CMakeFiles/testautomation.dir/testautomation_rect.c.obj"
+},
+{
+  "directory": "F:/SPO/build",
+  "command": "C:/MinGW/bin/gcc.exe -DHAVE_OPENGL -DHAVE_WFORMAT -DHAVE_WFORMAT_EXTRA_ARGS  -g -o CMakeFiles/testautomation.dir/testautomation_render.c.obj -c F:/SPO/SDL2/test/testautomation_render.c",
+  "file": "F:/SPO/SDL2/test/testautomation_render.c",
+  "output": "CMakeFiles/testautomation.dir/testautomation_render.c.obj"
+},
+{
+  "directory": "F:/SPO/build",
+  "command": "C:/MinGW/bin/gcc.exe -DHAVE_OPENGL -DHAVE_WFORMAT -DHAVE_WFORMAT_EXTRA_ARGS  -g -o CMakeFiles/testautomation.dir/testautomation_rwops.c.obj -c F:/SPO/SDL2/test/testautomation_rwops.c",
+  "file": "F:/SPO/SDL2/test/testautomation_rwops.c",
+  "output": "CMakeFiles/testautomation.dir/testautomation_rwops.c.obj"
+},
+{
+  "directory": "F:/SPO/build",
+  "command": "C:/MinGW/bin/gcc.exe -DHAVE_OPENGL -DHAVE_WFORMAT -DHAVE_WFORMAT_EXTRA_ARGS  -g -o CMakeFiles/testautomation.dir/testautomation_sdltest.c.obj -c F:/SPO/SDL2/test/testautomation_sdltest.c",
+  "file": "F:/SPO/SDL2/test/testautomation_sdltest.c",
+  "output": "CMakeFiles/testautomation.dir/testautomation_sdltest.c.obj"
+},
+{
+  "directory": "F:/SPO/build",
+  "command": "C:/MinGW/bin/gcc.exe -DHAVE_OPENGL -DHAVE_WFORMAT -DHAVE_WFORMAT_EXTRA_ARGS  -g -o CMakeFiles/testautomation.dir/testautomation_stdlib.c.obj -c F:/SPO/SDL2/test/testautomation_stdlib.c",
+  "file": "F:/SPO/SDL2/test/testautomation_stdlib.c",
+  "output": "CMakeFiles/testautomation.dir/testautomation_stdlib.c.obj"
+},
+{
+  "directory": "F:/SPO/build",
+  "command": "C:/MinGW/bin/gcc.exe -DHAVE_OPENGL -DHAVE_WFORMAT -DHAVE_WFORMAT_EXTRA_ARGS  -g -o CMakeFiles/testautomation.dir/testautomation_subsystems.c.obj -c F:/SPO/SDL2/test/testautomation_subsystems.c",
+  "file": "F:/SPO/SDL2/test/testautomation_subsystems.c",
+  "output": "CMakeFiles/testautomation.dir/testautomation_subsystems.c.obj"
+},
+{
+  "directory": "F:/SPO/build",
+  "command": "C:/MinGW/bin/gcc.exe -DHAVE_OPENGL -DHAVE_WFORMAT -DHAVE_WFORMAT_EXTRA_ARGS  -g -o CMakeFiles/testautomation.dir/testautomation_surface.c.obj -c F:/SPO/SDL2/test/testautomation_surface.c",
+  "file": "F:/SPO/SDL2/test/testautomation_surface.c",
+  "output": "CMakeFiles/testautomation.dir/testautomation_surface.c.obj"
+},
+{
+  "directory": "F:/SPO/build",
+  "command": "C:/MinGW/bin/gcc.exe -DHAVE_OPENGL -DHAVE_WFORMAT -DHAVE_WFORMAT_EXTRA_ARGS  -g -o CMakeFiles/testautomation.dir/testautomation_syswm.c.obj -c F:/SPO/SDL2/test/testautomation_syswm.c",
+  "file": "F:/SPO/SDL2/test/testautomation_syswm.c",
+  "output": "CMakeFiles/testautomation.dir/testautomation_syswm.c.obj"
+},
+{
+  "directory": "F:/SPO/build",
+  "command": "C:/MinGW/bin/gcc.exe -DHAVE_OPENGL -DHAVE_WFORMAT -DHAVE_WFORMAT_EXTRA_ARGS  -g -o CMakeFiles/testautomation.dir/testautomation_timer.c.obj -c F:/SPO/SDL2/test/testautomation_timer.c",
+  "file": "F:/SPO/SDL2/test/testautomation_timer.c",
+  "output": "CMakeFiles/testautomation.dir/testautomation_timer.c.obj"
+},
+{
+  "directory": "F:/SPO/build",
+  "command": "C:/MinGW/bin/gcc.exe -DHAVE_OPENGL -DHAVE_WFORMAT -DHAVE_WFORMAT_EXTRA_ARGS  -g -o CMakeFiles/testautomation.dir/testautomation_video.c.obj -c F:/SPO/SDL2/test/testautomation_video.c",
+  "file": "F:/SPO/SDL2/test/testautomation_video.c",
+  "output": "CMakeFiles/testautomation.dir/testautomation_video.c.obj"
+},
+{
+  "directory": "F:/SPO/build",
+  "command": "C:/MinGW/bin/gcc.exe -DHAVE_OPENGL  -g -o CMakeFiles/testmultiaudio.dir/testmultiaudio.c.obj -c F:/SPO/SDL2/test/testmultiaudio.c",
+  "file": "F:/SPO/SDL2/test/testmultiaudio.c",
+  "output": "CMakeFiles/testmultiaudio.dir/testmultiaudio.c.obj"
+},
+{
+  "directory": "F:/SPO/build",
+  "command": "C:/MinGW/bin/gcc.exe -DHAVE_OPENGL  -g -o CMakeFiles/testmultiaudio.dir/testutils.c.obj -c F:/SPO/SDL2/test/testutils.c",
+  "file": "F:/SPO/SDL2/test/testutils.c",
+  "output": "CMakeFiles/testmultiaudio.dir/testutils.c.obj"
+},
+{
+  "directory": "F:/SPO/build",
+  "command": "C:/MinGW/bin/gcc.exe -DHAVE_OPENGL  -g -o CMakeFiles/testaudiohotplug.dir/testaudiohotplug.c.obj -c F:/SPO/SDL2/test/testaudiohotplug.c",
+  "file": "F:/SPO/SDL2/test/testaudiohotplug.c",
+  "output": "CMakeFiles/testaudiohotplug.dir/testaudiohotplug.c.obj"
+},
+{
+  "directory": "F:/SPO/build",
+  "command": "C:/MinGW/bin/gcc.exe -DHAVE_OPENGL  -g -o CMakeFiles/testaudiohotplug.dir/testutils.c.obj -c F:/SPO/SDL2/test/testutils.c",
+  "file": "F:/SPO/SDL2/test/testutils.c",
+  "output": "CMakeFiles/testaudiohotplug.dir/testutils.c.obj"
+},
+{
+  "directory": "F:/SPO/build",
+  "command": "C:/MinGW/bin/gcc.exe -DHAVE_OPENGL  -g -o CMakeFiles/testaudiocapture.dir/testaudiocapture.c.obj -c F:/SPO/SDL2/test/testaudiocapture.c",
+  "file": "F:/SPO/SDL2/test/testaudiocapture.c",
+  "output": "CMakeFiles/testaudiocapture.dir/testaudiocapture.c.obj"
+},
+{
+  "directory": "F:/SPO/build",
+  "command": "C:/MinGW/bin/gcc.exe -DHAVE_OPENGL  -g -o CMakeFiles/testatomic.dir/testatomic.c.obj -c F:/SPO/SDL2/test/testatomic.c",
+  "file": "F:/SPO/SDL2/test/testatomic.c",
+  "output": "CMakeFiles/testatomic.dir/testatomic.c.obj"
+},
+{
+  "directory": "F:/SPO/build",
+  "command": "C:/MinGW/bin/gcc.exe -DHAVE_OPENGL  -g -o CMakeFiles/testintersections.dir/testintersections.c.obj -c F:/SPO/SDL2/test/testintersections.c",
+  "file": "F:/SPO/SDL2/test/testintersections.c",
+  "output": "CMakeFiles/testintersections.dir/testintersections.c.obj"
+},
+{
+  "directory": "F:/SPO/build",
+  "command": "C:/MinGW/bin/gcc.exe -DHAVE_OPENGL  -g -o CMakeFiles/testrelative.dir/testrelative.c.obj -c F:/SPO/SDL2/test/testrelative.c",
+  "file": "F:/SPO/SDL2/test/testrelative.c",
+  "output": "CMakeFiles/testrelative.dir/testrelative.c.obj"
+},
+{
+  "directory": "F:/SPO/build",
+  "command": "C:/MinGW/bin/gcc.exe -DHAVE_OPENGL  -g -o CMakeFiles/testhittesting.dir/testhittesting.c.obj -c F:/SPO/SDL2/test/testhittesting.c",
+  "file": "F:/SPO/SDL2/test/testhittesting.c",
+  "output": "CMakeFiles/testhittesting.dir/testhittesting.c.obj"
+},
+{
+  "directory": "F:/SPO/build",
+  "command": "C:/MinGW/bin/gcc.exe -DHAVE_OPENGL  -g -o CMakeFiles/testdraw2.dir/testdraw2.c.obj -c F:/SPO/SDL2/test/testdraw2.c",
+  "file": "F:/SPO/SDL2/test/testdraw2.c",
+  "output": "CMakeFiles/testdraw2.dir/testdraw2.c.obj"
+},
+{
+  "directory": "F:/SPO/build",
+  "command": "C:/MinGW/bin/gcc.exe -DHAVE_OPENGL  -g -o CMakeFiles/testdrawchessboard.dir/testdrawchessboard.c.obj -c F:/SPO/SDL2/test/testdrawchessboard.c",
+  "file": "F:/SPO/SDL2/test/testdrawchessboard.c",
+  "output": "CMakeFiles/testdrawchessboard.dir/testdrawchessboard.c.obj"
+},
+{
+  "directory": "F:/SPO/build",
+  "command": "C:/MinGW/bin/gcc.exe -DHAVE_OPENGL  -g -o CMakeFiles/testdropfile.dir/testdropfile.c.obj -c F:/SPO/SDL2/test/testdropfile.c",
+  "file": "F:/SPO/SDL2/test/testdropfile.c",
+  "output": "CMakeFiles/testdropfile.dir/testdropfile.c.obj"
+},
+{
+  "directory": "F:/SPO/build",
+  "command": "C:/MinGW/bin/gcc.exe -DHAVE_OPENGL  -g -o CMakeFiles/testerror.dir/testerror.c.obj -c F:/SPO/SDL2/test/testerror.c",
+  "file": "F:/SPO/SDL2/test/testerror.c",
+  "output": "CMakeFiles/testerror.dir/testerror.c.obj"
+},
+{
+  "directory": "F:/SPO/build",
+  "command": "C:/MinGW/bin/gcc.exe -DHAVE_OPENGL  -g -o CMakeFiles/testfile.dir/testfile.c.obj -c F:/SPO/SDL2/test/testfile.c",
+  "file": "F:/SPO/SDL2/test/testfile.c",
+  "output": "CMakeFiles/testfile.dir/testfile.c.obj"
+},
+{
+  "directory": "F:/SPO/build",
+  "command": "C:/MinGW/bin/gcc.exe -DHAVE_OPENGL  -g -o CMakeFiles/testgamecontroller.dir/testgamecontroller.c.obj -c F:/SPO/SDL2/test/testgamecontroller.c",
+  "file": "F:/SPO/SDL2/test/testgamecontroller.c",
+  "output": "CMakeFiles/testgamecontroller.dir/testgamecontroller.c.obj"
+},
+{
+  "directory": "F:/SPO/build",
+  "command": "C:/MinGW/bin/gcc.exe -DHAVE_OPENGL  -g -o CMakeFiles/testgamecontroller.dir/testutils.c.obj -c F:/SPO/SDL2/test/testutils.c",
+  "file": "F:/SPO/SDL2/test/testutils.c",
+  "output": "CMakeFiles/testgamecontroller.dir/testutils.c.obj"
+},
+{
+  "directory": "F:/SPO/build",
+  "command": "C:/MinGW/bin/gcc.exe -DHAVE_OPENGL  -g -o CMakeFiles/testgeometry.dir/testgeometry.c.obj -c F:/SPO/SDL2/test/testgeometry.c",
+  "file": "F:/SPO/SDL2/test/testgeometry.c",
+  "output": "CMakeFiles/testgeometry.dir/testgeometry.c.obj"
+},
+{
+  "directory": "F:/SPO/build",
+  "command": "C:/MinGW/bin/gcc.exe -DHAVE_OPENGL  -g -o CMakeFiles/testgeometry.dir/testutils.c.obj -c F:/SPO/SDL2/test/testutils.c",
+  "file": "F:/SPO/SDL2/test/testutils.c",
+  "output": "CMakeFiles/testgeometry.dir/testutils.c.obj"
+},
+{
+  "directory": "F:/SPO/build",
+  "command": "C:/MinGW/bin/gcc.exe -DHAVE_OPENGL  -g -o CMakeFiles/testgesture.dir/testgesture.c.obj -c F:/SPO/SDL2/test/testgesture.c",
+  "file": "F:/SPO/SDL2/test/testgesture.c",
+  "output": "CMakeFiles/testgesture.dir/testgesture.c.obj"
+},
+{
+  "directory": "F:/SPO/build",
+  "command": "C:/MinGW/bin/gcc.exe -DHAVE_OPENGL  -g -o CMakeFiles/testgl2.dir/testgl2.c.obj -c F:/SPO/SDL2/test/testgl2.c",
+  "file": "F:/SPO/SDL2/test/testgl2.c",
+  "output": "CMakeFiles/testgl2.dir/testgl2.c.obj"
+},
+{
+  "directory": "F:/SPO/build",
+  "command": "C:/MinGW/bin/gcc.exe -DHAVE_OPENGL  -g -o CMakeFiles/testgles.dir/testgles.c.obj -c F:/SPO/SDL2/test/testgles.c",
+  "file": "F:/SPO/SDL2/test/testgles.c",
+  "output": "CMakeFiles/testgles.dir/testgles.c.obj"
+},
+{
+  "directory": "F:/SPO/build",
+  "command": "C:/MinGW/bin/gcc.exe -DHAVE_OPENGL  -g -o CMakeFiles/testgles2.dir/testgles2.c.obj -c F:/SPO/SDL2/test/testgles2.c",
+  "file": "F:/SPO/SDL2/test/testgles2.c",
+  "output": "CMakeFiles/testgles2.dir/testgles2.c.obj"
+},
+{
+  "directory": "F:/SPO/build",
+  "command": "C:/MinGW/bin/gcc.exe -DHAVE_OPENGL  -g -o CMakeFiles/testgles2_sdf.dir/testgles2_sdf.c.obj -c F:/SPO/SDL2/test/testgles2_sdf.c",
+  "file": "F:/SPO/SDL2/test/testgles2_sdf.c",
+  "output": "CMakeFiles/testgles2_sdf.dir/testgles2_sdf.c.obj"
+},
+{
+  "directory": "F:/SPO/build",
+  "command": "C:/MinGW/bin/gcc.exe -DHAVE_OPENGL  -g -o CMakeFiles/testgles2_sdf.dir/testutils.c.obj -c F:/SPO/SDL2/test/testutils.c",
+  "file": "F:/SPO/SDL2/test/testutils.c",
+  "output": "CMakeFiles/testgles2_sdf.dir/testutils.c.obj"
+},
+{
+  "directory": "F:/SPO/build",
+  "command": "C:/MinGW/bin/gcc.exe -DHAVE_OPENGL  -g -o CMakeFiles/testhaptic.dir/testhaptic.c.obj -c F:/SPO/SDL2/test/testhaptic.c",
+  "file": "F:/SPO/SDL2/test/testhaptic.c",
+  "output": "CMakeFiles/testhaptic.dir/testhaptic.c.obj"
+},
+{
+  "directory": "F:/SPO/build",
+  "command": "C:/MinGW/bin/gcc.exe -DHAVE_OPENGL  -g -o CMakeFiles/testhotplug.dir/testhotplug.c.obj -c F:/SPO/SDL2/test/testhotplug.c",
+  "file": "F:/SPO/SDL2/test/testhotplug.c",
+  "output": "CMakeFiles/testhotplug.dir/testhotplug.c.obj"
+},
+{
+  "directory": "F:/SPO/build",
+  "command": "C:/MinGW/bin/gcc.exe -DHAVE_OPENGL  -g -o CMakeFiles/testrumble.dir/testrumble.c.obj -c F:/SPO/SDL2/test/testrumble.c",
+  "file": "F:/SPO/SDL2/test/testrumble.c",
+  "output": "CMakeFiles/testrumble.dir/testrumble.c.obj"
+},
+{
+  "directory": "F:/SPO/build",
+  "command": "C:/MinGW/bin/gcc.exe -DHAVE_OPENGL  -g -o CMakeFiles/testthread.dir/testthread.c.obj -c F:/SPO/SDL2/test/testthread.c",
+  "file": "F:/SPO/SDL2/test/testthread.c",
+  "output": "CMakeFiles/testthread.dir/testthread.c.obj"
+},
+{
+  "directory": "F:/SPO/build",
+  "command": "C:/MinGW/bin/gcc.exe -DHAVE_OPENGL  -g -o CMakeFiles/testiconv.dir/testiconv.c.obj -c F:/SPO/SDL2/test/testiconv.c",
+  "file": "F:/SPO/SDL2/test/testiconv.c",
+  "output": "CMakeFiles/testiconv.dir/testiconv.c.obj"
+},
+{
+  "directory": "F:/SPO/build",
+  "command": "C:/MinGW/bin/gcc.exe -DHAVE_OPENGL  -g -o CMakeFiles/testiconv.dir/testutils.c.obj -c F:/SPO/SDL2/test/testutils.c",
+  "file": "F:/SPO/SDL2/test/testutils.c",
+  "output": "CMakeFiles/testiconv.dir/testutils.c.obj"
+},
+{
+  "directory": "F:/SPO/build",
+  "command": "C:/MinGW/bin/gcc.exe -DHAVE_OPENGL  -g -o CMakeFiles/testime.dir/testime.c.obj -c F:/SPO/SDL2/test/testime.c",
+  "file": "F:/SPO/SDL2/test/testime.c",
+  "output": "CMakeFiles/testime.dir/testime.c.obj"
+},
+{
+  "directory": "F:/SPO/build",
+  "command": "C:/MinGW/bin/gcc.exe -DHAVE_OPENGL  -g -o CMakeFiles/testime.dir/testutils.c.obj -c F:/SPO/SDL2/test/testutils.c",
+  "file": "F:/SPO/SDL2/test/testutils.c",
+  "output": "CMakeFiles/testime.dir/testutils.c.obj"
+},
+{
+  "directory": "F:/SPO/build",
+  "command": "C:/MinGW/bin/gcc.exe -DHAVE_OPENGL  -g -o CMakeFiles/testjoystick.dir/testjoystick.c.obj -c F:/SPO/SDL2/test/testjoystick.c",
+  "file": "F:/SPO/SDL2/test/testjoystick.c",
+  "output": "CMakeFiles/testjoystick.dir/testjoystick.c.obj"
+},
+{
+  "directory": "F:/SPO/build",
+  "command": "C:/MinGW/bin/gcc.exe -DHAVE_OPENGL  -g -o CMakeFiles/testkeys.dir/testkeys.c.obj -c F:/SPO/SDL2/test/testkeys.c",
+  "file": "F:/SPO/SDL2/test/testkeys.c",
+  "output": "CMakeFiles/testkeys.dir/testkeys.c.obj"
+},
+{
+  "directory": "F:/SPO/build",
+  "command": "C:/MinGW/bin/gcc.exe -DHAVE_OPENGL  -g -o CMakeFiles/testloadso.dir/testloadso.c.obj -c F:/SPO/SDL2/test/testloadso.c",
+  "file": "F:/SPO/SDL2/test/testloadso.c",
+  "output": "CMakeFiles/testloadso.dir/testloadso.c.obj"
+},
+{
+  "directory": "F:/SPO/build",
+  "command": "C:/MinGW/bin/gcc.exe -DHAVE_OPENGL  -g -o CMakeFiles/testlocale.dir/testlocale.c.obj -c F:/SPO/SDL2/test/testlocale.c",
+  "file": "F:/SPO/SDL2/test/testlocale.c",
+  "output": "CMakeFiles/testlocale.dir/testlocale.c.obj"
+},
+{
+  "directory": "F:/SPO/build",
+  "command": "C:/MinGW/bin/gcc.exe -DHAVE_OPENGL  -g -o CMakeFiles/testlock.dir/testlock.c.obj -c F:/SPO/SDL2/test/testlock.c",
+  "file": "F:/SPO/SDL2/test/testlock.c",
+  "output": "CMakeFiles/testlock.dir/testlock.c.obj"
+},
+{
+  "directory": "F:/SPO/build",
+  "command": "C:/MinGW/bin/gcc.exe -DHAVE_OPENGL  -g -o CMakeFiles/testmouse.dir/testmouse.c.obj -c F:/SPO/SDL2/test/testmouse.c",
+  "file": "F:/SPO/SDL2/test/testmouse.c",
+  "output": "CMakeFiles/testmouse.dir/testmouse.c.obj"
+},
+{
+  "directory": "F:/SPO/build",
+  "command": "C:/MinGW/bin/gcc.exe -DHAVE_OPENGL  -g -o CMakeFiles/testoverlay2.dir/testoverlay2.c.obj -c F:/SPO/SDL2/test/testoverlay2.c",
+  "file": "F:/SPO/SDL2/test/testoverlay2.c",
+  "output": "CMakeFiles/testoverlay2.dir/testoverlay2.c.obj"
+},
+{
+  "directory": "F:/SPO/build",
+  "command": "C:/MinGW/bin/gcc.exe -DHAVE_OPENGL  -g -o CMakeFiles/testoverlay2.dir/testyuv_cvt.c.obj -c F:/SPO/SDL2/test/testyuv_cvt.c",
+  "file": "F:/SPO/SDL2/test/testyuv_cvt.c",
+  "output": "CMakeFiles/testoverlay2.dir/testyuv_cvt.c.obj"
+},
+{
+  "directory": "F:/SPO/build",
+  "command": "C:/MinGW/bin/gcc.exe -DHAVE_OPENGL  -g -o CMakeFiles/testoverlay2.dir/testutils.c.obj -c F:/SPO/SDL2/test/testutils.c",
+  "file": "F:/SPO/SDL2/test/testutils.c",
+  "output": "CMakeFiles/testoverlay2.dir/testutils.c.obj"
+},
+{
+  "directory": "F:/SPO/build",
+  "command": "C:/MinGW/bin/gcc.exe -DHAVE_OPENGL  -g -o CMakeFiles/testplatform.dir/testplatform.c.obj -c F:/SPO/SDL2/test/testplatform.c",
+  "file": "F:/SPO/SDL2/test/testplatform.c",
+  "output": "CMakeFiles/testplatform.dir/testplatform.c.obj"
+},
+{
+  "directory": "F:/SPO/build",
+  "command": "C:/MinGW/bin/gcc.exe -DHAVE_OPENGL  -g -o CMakeFiles/testpower.dir/testpower.c.obj -c F:/SPO/SDL2/test/testpower.c",
+  "file": "F:/SPO/SDL2/test/testpower.c",
+  "output": "CMakeFiles/testpower.dir/testpower.c.obj"
+},
+{
+  "directory": "F:/SPO/build",
+  "command": "C:/MinGW/bin/gcc.exe -DHAVE_OPENGL  -g -o CMakeFiles/testfilesystem.dir/testfilesystem.c.obj -c F:/SPO/SDL2/test/testfilesystem.c",
+  "file": "F:/SPO/SDL2/test/testfilesystem.c",
+  "output": "CMakeFiles/testfilesystem.dir/testfilesystem.c.obj"
+},
+{
+  "directory": "F:/SPO/build",
+  "command": "C:/MinGW/bin/gcc.exe -DHAVE_OPENGL  -g -o CMakeFiles/testfilesystem_pre.dir/testfilesystem_pre.c.obj -c F:/SPO/SDL2/test/testfilesystem_pre.c",
+  "file": "F:/SPO/SDL2/test/testfilesystem_pre.c",
+  "output": "CMakeFiles/testfilesystem_pre.dir/testfilesystem_pre.c.obj"
+},
+{
+  "directory": "F:/SPO/build",
+  "command": "C:/MinGW/bin/gcc.exe -DHAVE_OPENGL  -g -o CMakeFiles/testrendertarget.dir/testrendertarget.c.obj -c F:/SPO/SDL2/test/testrendertarget.c",
+  "file": "F:/SPO/SDL2/test/testrendertarget.c",
+  "output": "CMakeFiles/testrendertarget.dir/testrendertarget.c.obj"
+},
+{
+  "directory": "F:/SPO/build",
+  "command": "C:/MinGW/bin/gcc.exe -DHAVE_OPENGL  -g -o CMakeFiles/testrendertarget.dir/testutils.c.obj -c F:/SPO/SDL2/test/testutils.c",
+  "file": "F:/SPO/SDL2/test/testutils.c",
+  "output": "CMakeFiles/testrendertarget.dir/testutils.c.obj"
+},
+{
+  "directory": "F:/SPO/build",
+  "command": "C:/MinGW/bin/gcc.exe -DHAVE_OPENGL  -g -o CMakeFiles/testscale.dir/testscale.c.obj -c F:/SPO/SDL2/test/testscale.c",
+  "file": "F:/SPO/SDL2/test/testscale.c",
+  "output": "CMakeFiles/testscale.dir/testscale.c.obj"
+},
+{
+  "directory": "F:/SPO/build",
+  "command": "C:/MinGW/bin/gcc.exe -DHAVE_OPENGL  -g -o CMakeFiles/testscale.dir/testutils.c.obj -c F:/SPO/SDL2/test/testutils.c",
+  "file": "F:/SPO/SDL2/test/testutils.c",
+  "output": "CMakeFiles/testscale.dir/testutils.c.obj"
+},
+{
+  "directory": "F:/SPO/build",
+  "command": "C:/MinGW/bin/gcc.exe -DHAVE_OPENGL  -g -o CMakeFiles/testsem.dir/testsem.c.obj -c F:/SPO/SDL2/test/testsem.c",
+  "file": "F:/SPO/SDL2/test/testsem.c",
+  "output": "CMakeFiles/testsem.dir/testsem.c.obj"
+},
+{
+  "directory": "F:/SPO/build",
+  "command": "C:/MinGW/bin/gcc.exe -DHAVE_OPENGL  -g -o CMakeFiles/testsensor.dir/testsensor.c.obj -c F:/SPO/SDL2/test/testsensor.c",
+  "file": "F:/SPO/SDL2/test/testsensor.c",
+  "output": "CMakeFiles/testsensor.dir/testsensor.c.obj"
+},
+{
+  "directory": "F:/SPO/build",
+  "command": "C:/MinGW/bin/gcc.exe -DHAVE_OPENGL  -g -o CMakeFiles/testshader.dir/testshader.c.obj -c F:/SPO/SDL2/test/testshader.c",
+  "file": "F:/SPO/SDL2/test/testshader.c",
+  "output": "CMakeFiles/testshader.dir/testshader.c.obj"
+},
+{
+  "directory": "F:/SPO/build",
+  "command": "C:/MinGW/bin/gcc.exe -DHAVE_OPENGL  -g -o CMakeFiles/testshape.dir/testshape.c.obj -c F:/SPO/SDL2/test/testshape.c",
+  "file": "F:/SPO/SDL2/test/testshape.c",
+  "output": "CMakeFiles/testshape.dir/testshape.c.obj"
+},
+{
+  "directory": "F:/SPO/build",
+  "command": "C:/MinGW/bin/gcc.exe -DHAVE_OPENGL  -g -o CMakeFiles/testsprite2.dir/testsprite2.c.obj -c F:/SPO/SDL2/test/testsprite2.c",
+  "file": "F:/SPO/SDL2/test/testsprite2.c",
+  "output": "CMakeFiles/testsprite2.dir/testsprite2.c.obj"
+},
+{
+  "directory": "F:/SPO/build",
+  "command": "C:/MinGW/bin/gcc.exe -DHAVE_OPENGL  -g -o CMakeFiles/testsprite2.dir/testutils.c.obj -c F:/SPO/SDL2/test/testutils.c",
+  "file": "F:/SPO/SDL2/test/testutils.c",
+  "output": "CMakeFiles/testsprite2.dir/testutils.c.obj"
+},
+{
+  "directory": "F:/SPO/build",
+  "command": "C:/MinGW/bin/gcc.exe -DHAVE_OPENGL  -g -o CMakeFiles/testspriteminimal.dir/testspriteminimal.c.obj -c F:/SPO/SDL2/test/testspriteminimal.c",
+  "file": "F:/SPO/SDL2/test/testspriteminimal.c",
+  "output": "CMakeFiles/testspriteminimal.dir/testspriteminimal.c.obj"
+},
+{
+  "directory": "F:/SPO/build",
+  "command": "C:/MinGW/bin/gcc.exe -DHAVE_OPENGL  -g -o CMakeFiles/testspriteminimal.dir/testutils.c.obj -c F:/SPO/SDL2/test/testutils.c",
+  "file": "F:/SPO/SDL2/test/testutils.c",
+  "output": "CMakeFiles/testspriteminimal.dir/testutils.c.obj"
+},
+{
+  "directory": "F:/SPO/build",
+  "command": "C:/MinGW/bin/gcc.exe -DHAVE_OPENGL  -g -o CMakeFiles/teststreaming.dir/teststreaming.c.obj -c F:/SPO/SDL2/test/teststreaming.c",
+  "file": "F:/SPO/SDL2/test/teststreaming.c",
+  "output": "CMakeFiles/teststreaming.dir/teststreaming.c.obj"
+},
+{
+  "directory": "F:/SPO/build",
+  "command": "C:/MinGW/bin/gcc.exe -DHAVE_OPENGL  -g -o CMakeFiles/teststreaming.dir/testutils.c.obj -c F:/SPO/SDL2/test/testutils.c",
+  "file": "F:/SPO/SDL2/test/testutils.c",
+  "output": "CMakeFiles/teststreaming.dir/testutils.c.obj"
+},
+{
+  "directory": "F:/SPO/build",
+  "command": "C:/MinGW/bin/gcc.exe -DHAVE_OPENGL  -g -o CMakeFiles/testtimer.dir/testtimer.c.obj -c F:/SPO/SDL2/test/testtimer.c",
+  "file": "F:/SPO/SDL2/test/testtimer.c",
+  "output": "CMakeFiles/testtimer.dir/testtimer.c.obj"
+},
+{
+  "directory": "F:/SPO/build",
+  "command": "C:/MinGW/bin/gcc.exe -DHAVE_OPENGL  -g -o CMakeFiles/testurl.dir/testurl.c.obj -c F:/SPO/SDL2/test/testurl.c",
+  "file": "F:/SPO/SDL2/test/testurl.c",
+  "output": "CMakeFiles/testurl.dir/testurl.c.obj"
+},
+{
+  "directory": "F:/SPO/build",
+  "command": "C:/MinGW/bin/gcc.exe -DHAVE_OPENGL  -g -o CMakeFiles/testver.dir/testver.c.obj -c F:/SPO/SDL2/test/testver.c",
+  "file": "F:/SPO/SDL2/test/testver.c",
+  "output": "CMakeFiles/testver.dir/testver.c.obj"
+},
+{
+  "directory": "F:/SPO/build",
+  "command": "C:/MinGW/bin/gcc.exe -DHAVE_OPENGL  -g -o CMakeFiles/testviewport.dir/testviewport.c.obj -c F:/SPO/SDL2/test/testviewport.c",
+  "file": "F:/SPO/SDL2/test/testviewport.c",
+  "output": "CMakeFiles/testviewport.dir/testviewport.c.obj"
+},
+{
+  "directory": "F:/SPO/build",
+  "command": "C:/MinGW/bin/gcc.exe -DHAVE_OPENGL  -g -o CMakeFiles/testviewport.dir/testutils.c.obj -c F:/SPO/SDL2/test/testutils.c",
+  "file": "F:/SPO/SDL2/test/testutils.c",
+  "output": "CMakeFiles/testviewport.dir/testutils.c.obj"
+},
+{
+  "directory": "F:/SPO/build",
+  "command": "C:/MinGW/bin/gcc.exe -DHAVE_OPENGL  -g -o CMakeFiles/testwm2.dir/testwm2.c.obj -c F:/SPO/SDL2/test/testwm2.c",
+  "file": "F:/SPO/SDL2/test/testwm2.c",
+  "output": "CMakeFiles/testwm2.dir/testwm2.c.obj"
+},
+{
+  "directory": "F:/SPO/build",
+  "command": "C:/MinGW/bin/gcc.exe -DHAVE_OPENGL  -g -o CMakeFiles/testyuv.dir/testyuv.c.obj -c F:/SPO/SDL2/test/testyuv.c",
+  "file": "F:/SPO/SDL2/test/testyuv.c",
+  "output": "CMakeFiles/testyuv.dir/testyuv.c.obj"
+},
+{
+  "directory": "F:/SPO/build",
+  "command": "C:/MinGW/bin/gcc.exe -DHAVE_OPENGL  -g -o CMakeFiles/testyuv.dir/testyuv_cvt.c.obj -c F:/SPO/SDL2/test/testyuv_cvt.c",
+  "file": "F:/SPO/SDL2/test/testyuv_cvt.c",
+  "output": "CMakeFiles/testyuv.dir/testyuv_cvt.c.obj"
+},
+{
+  "directory": "F:/SPO/build",
+  "command": "C:/MinGW/bin/gcc.exe -DHAVE_OPENGL  -g -o CMakeFiles/torturethread.dir/torturethread.c.obj -c F:/SPO/SDL2/test/torturethread.c",
+  "file": "F:/SPO/SDL2/test/torturethread.c",
+  "output": "CMakeFiles/torturethread.dir/torturethread.c.obj"
+},
+{
+  "directory": "F:/SPO/build",
+  "command": "C:/MinGW/bin/gcc.exe -DHAVE_OPENGL  -g -o CMakeFiles/testrendercopyex.dir/testrendercopyex.c.obj -c F:/SPO/SDL2/test/testrendercopyex.c",
+  "file": "F:/SPO/SDL2/test/testrendercopyex.c",
+  "output": "CMakeFiles/testrendercopyex.dir/testrendercopyex.c.obj"
+},
+{
+  "directory": "F:/SPO/build",
+  "command": "C:/MinGW/bin/gcc.exe -DHAVE_OPENGL  -g -o CMakeFiles/testrendercopyex.dir/testutils.c.obj -c F:/SPO/SDL2/test/testutils.c",
+  "file": "F:/SPO/SDL2/test/testutils.c",
+  "output": "CMakeFiles/testrendercopyex.dir/testutils.c.obj"
+},
+{
+  "directory": "F:/SPO/build",
+  "command": "C:/MinGW/bin/gcc.exe -DHAVE_OPENGL  -g -o CMakeFiles/testmessage.dir/testmessage.c.obj -c F:/SPO/SDL2/test/testmessage.c",
+  "file": "F:/SPO/SDL2/test/testmessage.c",
+  "output": "CMakeFiles/testmessage.dir/testmessage.c.obj"
+},
+{
+  "directory": "F:/SPO/build",
+  "command": "C:/MinGW/bin/gcc.exe -DHAVE_OPENGL  -g -o CMakeFiles/testdisplayinfo.dir/testdisplayinfo.c.obj -c F:/SPO/SDL2/test/testdisplayinfo.c",
+  "file": "F:/SPO/SDL2/test/testdisplayinfo.c",
+  "output": "CMakeFiles/testdisplayinfo.dir/testdisplayinfo.c.obj"
+},
+{
+  "directory": "F:/SPO/build",
+  "command": "C:/MinGW/bin/gcc.exe -DHAVE_OPENGL  -g -o CMakeFiles/testqsort.dir/testqsort.c.obj -c F:/SPO/SDL2/test/testqsort.c",
+  "file": "F:/SPO/SDL2/test/testqsort.c",
+  "output": "CMakeFiles/testqsort.dir/testqsort.c.obj"
+},
+{
+  "directory": "F:/SPO/build",
+  "command": "C:/MinGW/bin/gcc.exe -DHAVE_OPENGL  -g -o CMakeFiles/testbounds.dir/testbounds.c.obj -c F:/SPO/SDL2/test/testbounds.c",
+  "file": "F:/SPO/SDL2/test/testbounds.c",
+  "output": "CMakeFiles/testbounds.dir/testbounds.c.obj"
+},
+{
+  "directory": "F:/SPO/build",
+  "command": "C:/MinGW/bin/gcc.exe -DHAVE_OPENGL  -g -o CMakeFiles/testcustomcursor.dir/testcustomcursor.c.obj -c F:/SPO/SDL2/test/testcustomcursor.c",
+  "file": "F:/SPO/SDL2/test/testcustomcursor.c",
+  "output": "CMakeFiles/testcustomcursor.dir/testcustomcursor.c.obj"
+},
+{
+  "directory": "F:/SPO/build",
+  "command": "C:/MinGW/bin/gcc.exe -DHAVE_OPENGL  -g -o CMakeFiles/controllermap.dir/controllermap.c.obj -c F:/SPO/SDL2/test/controllermap.c",
+  "file": "F:/SPO/SDL2/test/controllermap.c",
+  "output": "CMakeFiles/controllermap.dir/controllermap.c.obj"
+},
+{
+  "directory": "F:/SPO/build",
+  "command": "C:/MinGW/bin/gcc.exe -DHAVE_OPENGL  -g -o CMakeFiles/controllermap.dir/testutils.c.obj -c F:/SPO/SDL2/test/testutils.c",
+  "file": "F:/SPO/SDL2/test/testutils.c",
+  "output": "CMakeFiles/controllermap.dir/testutils.c.obj"
+},
+{
+  "directory": "F:/SPO/build",
+  "command": "C:/MinGW/bin/gcc.exe -DHAVE_OPENGL  -g -o CMakeFiles/testvulkan.dir/testvulkan.c.obj -c F:/SPO/SDL2/test/testvulkan.c",
+  "file": "F:/SPO/SDL2/test/testvulkan.c",
+  "output": "CMakeFiles/testvulkan.dir/testvulkan.c.obj"
+},
+{
+  "directory": "F:/SPO/build",
+  "command": "C:/MinGW/bin/gcc.exe -DHAVE_OPENGL  -g -o CMakeFiles/testoffscreen.dir/testoffscreen.c.obj -c F:/SPO/SDL2/test/testoffscreen.c",
+  "file": "F:/SPO/SDL2/test/testoffscreen.c",
+  "output": "CMakeFiles/testoffscreen.dir/testoffscreen.c.obj"
+}
+]
