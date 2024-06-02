@@ -1,5 +1,5 @@
 #include <iostream>
-#include <F:\SPO\SDL2\i686-w64-mingw32\include\SDL2\SDL.h>
+#include "SDL2\i686-w64-mingw32\include\SDL2\SDL.h"
 #include <complex>
 
 #define MAX_ITERATIONS 1000
