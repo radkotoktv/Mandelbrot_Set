@@ -4,14 +4,13 @@
 #include <chrono>
 #include <pthread.h>
 #include <vector>
-#include <queue>
 
-#define MAX_ITERATIONS 500
+#define MAX_ITERATIONS 100
 
 const int WIDTH = 800;
 const int HEIGHT = 600;
 const int NUM_THREADS = 1;
-const int TILE_SIZE = 10;  // Size of the smaller parts
+const int TILE_SIZE = 400;  // Size of the smaller parts
 
 std::vector<std::vector<int>> pixelBuffer(HEIGHT, std::vector<int>(WIDTH));
 
@@ -19,9 +18,9 @@ struct Task {
     int startX, startY, endX, endY;
 };
 
-std::queue<Task> taskQueue;
-pthread_mutex_t queueMutex = PTHREAD_MUTEX_INITIALIZER;
-pthread_cond_t queueCV = PTHREAD_COND_INITIALIZER;
+std::vector<Task> tasks;
+int currentTaskIndex = 0;
+pthread_mutex_t taskMutex = PTHREAD_MUTEX_INITIALIZER;
 
 int mandelbrot(std::complex<double> c) {
     std::complex<double> z = 0;
@@ -54,26 +53,18 @@ void* workerFunction(void* arg) {
     while (true) {
         Task task;
 
-        // Lock and pull a task from the queue
-        pthread_mutex_lock(&queueMutex);
-        while (taskQueue.empty()) {
-            pthread_cond_wait(&queueCV, &queueMutex);
+        // Lock and get the next task index
+        pthread_mutex_lock(&taskMutex);
+        if (currentTaskIndex >= tasks.size()) {
+            pthread_mutex_unlock(&taskMutex);
+            break;
         }
-
-        task = taskQueue.front();
-        taskQueue.pop();
-        pthread_mutex_unlock(&queueMutex);
+        task = tasks[currentTaskIndex];
+        currentTaskIndex++;
+        pthread_mutex_unlock(&taskMutex);
 
         // Process the task
         processTask(task);
-
-        // Exit condition
-        pthread_mutex_lock(&queueMutex);
-        if (taskQueue.empty()) {
-            pthread_mutex_unlock(&queueMutex);
-            break;
-        }
-        pthread_mutex_unlock(&queueMutex);
     }
 
     return nullptr;
@@ -87,7 +78,7 @@ void createTasks() {
             task.startY = y;
             task.endX = std::min(x + TILE_SIZE, WIDTH);
             task.endY = std::min(y + TILE_SIZE, HEIGHT);
-            taskQueue.push(task);
+            tasks.push_back(task);
         }
     }
 }
@@ -102,9 +93,6 @@ void renderMandelbrot() {
     for (int i = 0; i < NUM_THREADS; ++i) {
         pthread_create(&workers[i], nullptr, workerFunction, nullptr);
     }
-
-    // Signal all worker threads
-    pthread_cond_broadcast(&queueCV);
 
     // Wait for all threads to finish
     for (int i = 0; i < NUM_THREADS; ++i) {
