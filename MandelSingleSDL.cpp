@@ -3,7 +3,8 @@
 #include <complex>
 #include <chrono>
 
-#define MAX_ITERATIONS 255
+#define MAX_ITERATIONS 1000
+#define MAX_COLOR 255
 
 const int WIDTH = 800;
 const int HEIGHT = 600;
@@ -31,7 +32,7 @@ void renderMandelbrot(SDL_Renderer *renderer) {
             int iterations = mandelbrot(c);
 
             // Map the iterations to a color
-            int color = 255 * iterations / MAX_ITERATIONS;
+            int color = iterations % MAX_COLOR;
             SDL_SetRenderDrawColor(renderer, color, color, color, 255);
             SDL_RenderDrawPoint(renderer, x, y);
         }
