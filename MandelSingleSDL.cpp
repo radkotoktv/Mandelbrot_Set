@@ -3,7 +3,7 @@
 #include <complex>
 #include <chrono>
 
-#define MAX_ITERATIONS 1000
+#define MAX_ITERATIONS 500
 #define MAX_COLOR 255
 
 const int WIDTH = 800;

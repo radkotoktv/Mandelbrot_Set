@@ -5,11 +5,11 @@
 #include <pthread.h>
 #include <vector>
 
-#define MAX_ITERATIONS 500
+#define MAX_ITERATIONS 1000
 
 const int WIDTH = 800;
 const int HEIGHT = 600;
-const int NUM_THREADS = 1;
+const int NUM_THREADS = 2;
 
 std::vector<std::vector<int>> pixelBuffer(HEIGHT, std::vector<int>(WIDTH));
 
